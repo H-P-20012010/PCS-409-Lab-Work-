@@ -14,3 +14,8 @@
 </ol>
 
 ## Week 3 :
+<ol>
+<li>Insertion Sort</li>
+<li>Selection Sort</li>
+<li>Find Duplicates</li>
+</ol>
